@@ -6,7 +6,10 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello, world!";
+	char n;
+	cout << "Hello, world! \n";
+	cout << "Please enter a symbol: ";
+	cin >> n;
 	return 1;
 }
 
